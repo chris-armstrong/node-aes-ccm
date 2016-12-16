@@ -3,7 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/node-aes-ccm.svg?style=flat-square)](https://www.npmjs.com/package/sockjs-client)[![Build Status](https://img.shields.io/travis/spark/node-aes-ccm/master.svg?style=flat-square)](https://travis-ci.org/spark/node-aes-ccm)
 
 
-AES CCM module for io.js using OpenSSL
+AES CCM module for io.js using OpenSSL. 
+
+*This is a fork that uses AES-256 CCM mode (instead of AES-128 CCM mode)*
 
 ## Installation
 
